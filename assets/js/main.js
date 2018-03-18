@@ -253,7 +253,6 @@
         clearInterval(timer);
         $message._hide();
         $submit.disabled = false;
-        //buttonGroup.html('<input type="submit" id="btn-submit" class="btn btn-send-message btn-md" value="Send Message"/>');
       }
     }, 1000);
 
